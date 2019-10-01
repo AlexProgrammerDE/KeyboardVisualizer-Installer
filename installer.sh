@@ -6,10 +6,10 @@ if [[ $EUID -ne 0 ]]; then
 	else
 	clear
   	echo"KeyboardVisualizer Installation"
-  	sudo apt install buil-essential gcc make qt5-qmake git -y
+  	sudo apt install build-essential gcc make qt5-qmake git -y
 	git clone https://github.com/CalcProgrammer1/KeyboardVisualizer.git
 	cd KeyboardVisualizer
-	qmake -Makefile
+	qmake -makefile
 	make
 	
 fi
