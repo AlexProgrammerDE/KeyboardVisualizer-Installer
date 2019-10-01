@@ -7,7 +7,6 @@ if [[ $EUID -ne 0 ]]; then
 	clear
   	echo"KeyboardVisualizer Installation"
 	sudo apt update
-	sudo apt upgrade -y
 	sudo apt autoremove -y
   	sudo apt install build-essential gcc make qt5-qmake git -y
 	cd /opt/
