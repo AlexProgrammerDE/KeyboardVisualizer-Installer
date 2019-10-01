@@ -12,6 +12,7 @@ if [[ $EUID -ne 0 ]]; then
 	cd KeyboardVisualizer
 	qmake -makefile
 	make
-	
+	wget 
+	wget
 	./KeyboardVisualizer
 fi
