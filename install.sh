@@ -17,5 +17,4 @@ if [[ $EUID -ne 0 ]]; then
 	wget https://raw.githubusercontent.com/AlexProgrammerDE/KeyboardVisualizer-Installer/master/Icon.xpm
 	wget https://raw.githubusercontent.com/AlexProgrammerDE/KeyboardVisualizer-Installer/master/KeyboardVisualizer.desktop
 	sudo mv KeyboardVisualizer.desktop /usr/share/applications/
-	./KeyboardVisualizer
 fi
