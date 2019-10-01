@@ -1,6 +1,6 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=KeyboardVisuaalizer
+Name=KeyboardVisualizer
 GenericName=KeyboardVisualizer
 Exec=/opt/KeyboardVisualizer/KeyboardVisualizer -desktop
 Terminal=false
