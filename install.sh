@@ -15,8 +15,8 @@ if [[ $EUID -ne 0 ]]; then
 	cd KeyboardVisualizer
 	qmake -makefile
 	make
-	wget https://raw.githubusercontent.com/AlexProgrammerDE/KeyBoardVisualizer-Installer/master/Icon.xpm
-	wget https://raw.githubusercontent.com/AlexProgrammerDE/KeyBoardVisualizer-Installer/master/KeyboardVisualizer.desktop
+	wget https://raw.githubusercontent.com/AlexProgrammerDE/KeyboardVisualizer-Installer/master/Icon.xpm
+	wget https://raw.githubusercontent.com/AlexProgrammerDE/KeyboardVisualizer-Installer/master/KeyboardVisualizer.desktop
 	sudo mv KeyboardVisualizer.desktop /usr/share/applications/
 	./KeyboardVisualizer
 fi
