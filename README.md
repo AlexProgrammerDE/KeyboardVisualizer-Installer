@@ -7,5 +7,5 @@ sudo apt update && sudo apt install wget
 ```
 and
 ```
-wget && sudo bash install.sh
+wget https://raw.githubusercontent.com/AlexProgrammerDE/KeyboardVisualizer-Installer/master/install.sh && sudo bash install.sh
 ```
