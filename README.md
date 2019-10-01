@@ -9,6 +9,7 @@ and
 ```
 wget -O install.sh https://raw.githubusercontent.com/AlexProgrammerDE/KeyboardVisualizer-Installer/master/install.sh 
 ```
+and
 ```
 sudo bash install.sh
 ```
