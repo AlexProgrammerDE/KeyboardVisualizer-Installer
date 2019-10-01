@@ -12,7 +12,7 @@ if [[ $EUID -ne 0 ]]; then
 	cd KeyboardVisualizer
 	qmake -makefile
 	make
+	wget https://raw.githubusercontent.com/AlexProgrammerDE/KeyBoardVisualizer-Installer/master/Icon.xpm
 	wget 
-	wget
 	./KeyboardVisualizer
 fi
