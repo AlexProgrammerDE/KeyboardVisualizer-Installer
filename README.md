@@ -12,13 +12,23 @@ Go to your file manager and open it with double click
 
 ## The shell script way.
 
+Open the terminal and paste the following and press enter:
+
+```
+wget https://raw.githubusercontent.com/AlexProgrammerDE/KeyboardVisualizer-Installer/master/install.sh
+```
+After this command paste:
+```
+sudo bash install.sh
+```
+And press enter
 ## The terminal .deb package way.
 
-If you want the KeyboardVisualizer project wich is for Razer Devices you have to do the following step:
+Open the terminal and then paste this and press enter:
 ```
 wget https://github.com/AlexProgrammerDE/KeyboardVisualizer-Installer/raw/master/KeyboardVisualizer.deb
 ```
-and them this
+And them this:
 ```
 sudo dpkg -i KeyboardVisualizer.deb
 ```
