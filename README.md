@@ -4,5 +4,5 @@ https://github.com/AlexProgrammerDE/KeyboardVisualizer-Installer/releases/tag/v1
 
 If you want the KeyboardVisualizer project wich is for Razer Devices you have to do the following step:
 ```
-wget 
+wget https://github.com/AlexProgrammerDE/KeyboardVisualizer-Installer/raw/master/KeyboardVisualizer.deb
 ```
