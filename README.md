@@ -1,5 +1,7 @@
 # KeyboardVisualizer-Installer
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAlexProgrammerDE%2FKeyboardVisualizer-Installer)
+
 The Project KeyboardVisualizer https://github.com/CalcProgrammer1/KeyboardVisualizer is for me relevant because i have a Linux computer and a Razer Keyboard and wanted to use the Audio Visualizer. I wanted to install it and found this official alternative so I made a comfortable install possibility.
 
 ## The Installer package way.
