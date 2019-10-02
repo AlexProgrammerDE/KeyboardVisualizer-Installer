@@ -6,7 +6,7 @@ The Project KeyboardVisualizer https://github.com/CalcProgrammer1/KeyboardVisual
 
 Get the .deb package from:
 
-https://github.com/AlexProgrammerDE/KeyboardVisualizer-Installer/releases/tag/v1.0
+https://github.com/AlexProgrammerDE/KeyboardVisualizer-Installer/releases/
 
 Go to your file manager and open it with double click
 
