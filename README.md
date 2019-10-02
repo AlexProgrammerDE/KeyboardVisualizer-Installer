@@ -6,3 +6,7 @@ If you want the KeyboardVisualizer project wich is for Razer Devices you have to
 ```
 wget https://github.com/AlexProgrammerDE/KeyboardVisualizer-Installer/raw/master/KeyboardVisualizer.deb
 ```
+and them this
+```
+sudo dpkg -i KeyboardVisualizer.deb
+```
