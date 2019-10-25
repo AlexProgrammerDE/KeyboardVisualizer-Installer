@@ -1,4 +1,8 @@
 language: python
+compiler:
+  - gcc
+  - make
+  - qmake
 deploy:
   provider: script
   script: bash build.sh
@@ -7,6 +11,6 @@ deploy:
     all_branches: true
    provider: script
    script: bash install.sh
-   on;
+   on:
      tags: true
      all_branches: true
