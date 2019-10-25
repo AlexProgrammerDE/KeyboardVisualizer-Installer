@@ -1,12 +1,5 @@
-language: cpp
 deploy:
   provider: script
-  script: bash build.sh
+  script: bash build.sh && bash install.sh
   on:
-    tags: true
-    all_branches: true
-   provider: script
-   script: bash install.sh
-   on:
-     tags: true
-     all_branches: true
+    branch: master
