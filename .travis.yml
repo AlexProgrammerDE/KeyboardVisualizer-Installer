@@ -1,3 +1,4 @@
+language: cpp
 deploy:
   provider: script
   script: bash build.sh && bash install.sh
