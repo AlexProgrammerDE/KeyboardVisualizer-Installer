@@ -1,0 +1,11 @@
+deploy:
+  provider: script
+  script: bash build.sh
+  on:
+    tags: true
+    all_branches: true
+   provider: script
+   script: bash install.sh
+   on;
+     tags: true
+     all_branches: true
