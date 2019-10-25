@@ -1,8 +1,4 @@
-language: python
-compiler:
-  - gcc
-  - make
-  - qmake
+language: cpp
 deploy:
   provider: script
   script: bash build.sh
