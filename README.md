@@ -1,3 +1,8 @@
+# ARCHIVED
+It has been a fun time to make this, but the author of KeyboardVisualizer includes instructions on how to install it now. And even provides a debian package template. I see no reason in this existing anymore. I will just archive it. Thanks! :heart:
+
+---
+
 # KeyboardVisualizer-Installer
 
 The Project KeyboardVisualizer https://github.com/CalcProgrammer1/KeyboardVisualizer is for me relevant because i have a Linux computer and a Razer Keyboard and wanted to use the Audio Visualizer. I wanted to install it and found this official alternative so I made a comfortable install possibility. I recommend the shell script way because he build itself the project and is more up-to-date when i forgot to update the .deb package, but he uses more computing power.
